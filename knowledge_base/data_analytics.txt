@@ -1,0 +1,8 @@
+Question:
+Explain data cleaning.
+
+Answer:
+Data cleaning removes missing values, duplicates and incorrect data before analysis.
+
+Evaluation:
+Data preprocessing knowledge.

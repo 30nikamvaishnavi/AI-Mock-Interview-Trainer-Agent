@@ -1,0 +1,25 @@
+AI Engineer Interview Expectations:
+
+Candidates should know:
+
+Python programming
+Machine Learning
+Deep Learning
+LLM applications
+RAG architecture
+Vector databases
+Prompt engineering
+Model evaluation
+
+
+Common Questions:
+
+Explain RAG architecture.
+
+How do embeddings work?
+
+How do you reduce hallucination in LLM applications?
+
+Explain LangChain and LangGraph.
+
+How would you deploy an AI model?

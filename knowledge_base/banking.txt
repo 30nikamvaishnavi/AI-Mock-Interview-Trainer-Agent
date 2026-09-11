@@ -1,0 +1,8 @@
+Question:
+Explain customer relationship management in banking.
+
+Answer:
+CRM helps banks maintain customer relationships using data analysis and personalized services.
+
+Evaluation:
+Business understanding and communication.

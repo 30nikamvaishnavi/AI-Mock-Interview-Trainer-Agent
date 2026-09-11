@@ -1,0 +1,45 @@
+Machine Learning Engineer Interview Guide
+
+
+Technical Questions:
+
+Q: What is supervised learning?
+
+Answer:
+Supervised learning is a machine learning approach where a model learns from labeled data.
+Examples include classification and regression.
+
+
+Q: Explain overfitting.
+
+Answer:
+Overfitting occurs when a model learns training data too closely and performs poorly on unseen data.
+Techniques to reduce overfitting include regularization, dropout, cross-validation, and more data.
+
+
+Q: Explain CNN.
+
+Answer:
+CNN is a deep learning architecture mainly used for image processing.
+It extracts features using convolution layers and performs classification.
+
+
+Q: Explain RAG.
+
+Answer:
+Retrieval-Augmented Generation combines information retrieval with large language models.
+The system retrieves relevant documents and uses them as context for generating accurate responses.
+
+
+HR Questions:
+
+Q: Tell me about yourself.
+
+Answer:
+Introduce education, skills, projects, achievements and career goals.
+
+
+Q: Explain your project challenges.
+
+Answer:
+Explain technical challenges, solutions, and learning outcomes.

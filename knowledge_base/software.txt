@@ -1,0 +1,8 @@
+Question:
+Explain SDLC.
+
+Answer:
+SDLC is a systematic process used to develop software including planning, design, development, testing and deployment.
+
+Evaluation:
+Software development knowledge.

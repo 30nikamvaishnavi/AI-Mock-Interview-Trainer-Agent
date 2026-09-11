@@ -1,0 +1,13 @@
+Machine Learning Interview:
+
+Explain supervised learning.
+
+Difference between classification and regression.
+
+Explain overfitting and underfitting.
+
+How do you select evaluation metrics?
+
+Explain CNN architecture.
+
+How does feature extraction work?

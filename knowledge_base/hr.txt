@@ -1,0 +1,8 @@
+Question:
+Tell me about yourself.
+
+Answer:
+Candidate should explain education, skills, projects and career goals.
+
+Evaluation:
+Communication and confidence.

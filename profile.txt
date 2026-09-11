@@ -1,0 +1,40 @@
+Name: Vaishnavi Nikam
+
+Education:
+MCA Fresher
+
+Target Role:
+AI Engineer / Machine Learning Engineer
+
+Experience:
+Fresher
+
+Technical Skills:
+Python
+Machine Learning
+Deep Learning
+SQL
+RAG
+LLM
+LangChain
+Flask
+TensorFlow
+
+Projects:
+1. AI-Based Medical Image Diagnosis System
+- Deep learning based medical image classification system.
+- Used CNN, TensorFlow, OpenCV.
+
+2. InsightFlow AI
+- Multi-agent research and report generation system.
+- Used RAG, LangGraph concepts, Gemini API.
+
+3. Handwritten Character Recognition
+- CNN based character recognition model.
+
+4. Credit Scoring Model
+- Machine learning based credit risk prediction.
+
+Certificates:
+Machine Learning Internship
+DBMS Certificate

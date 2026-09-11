@@ -1,0 +1,15 @@
+Question:
+Explain machine learning.
+
+Answer:
+Machine learning is a branch of artificial intelligence where models learn patterns from data and make predictions.
+
+Evaluation:
+Understanding of algorithms, data, and model evaluation.
+
+
+Question:
+Explain your ML project.
+
+Answer:
+Candidate should explain problem statement, dataset, preprocessing, algorithm, evaluation metrics and results.
